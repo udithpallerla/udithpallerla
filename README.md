@@ -1,4 +1,4 @@
-### Hola, i'm Udith Narayana 👋
+### Hola, i'm Udith 👋
 
 - 📕 I’m currently pursuing at Lovely Professional University
 - 🌱 I’m currently intrested in Front-End Developer
